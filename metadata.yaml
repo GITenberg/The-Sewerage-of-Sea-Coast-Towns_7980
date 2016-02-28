@@ -1,0 +1,23 @@
+_repo: The-Sewerage-of-Sea-Coast-Towns_7980
+creator:
+  author:
+    agent_name: Adams, Henry Charles
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '2610'
+    url: http://www.gutenberg.org/2009/agents/2610
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sewerage'
+- !lcc 'TD'
+title: The Sewerage of Sea Coast Towns
+url: http://www.gutenberg.org/ebooks/7980
